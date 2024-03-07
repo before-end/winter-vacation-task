@@ -36,10 +36,6 @@ const router = createRouter({
       component: () => import('@/views/userLogin.vue'),
     },
     {
-      path: '/dish',
-      component: () => import('@/views/dishview.vue')
-    },
-    {
       path: '/merchant',
       component: () => import('@/views/merchantmess.vue')
     },
