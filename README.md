@@ -10,7 +10,8 @@
 
 运用技术：<br>
 1.用userStore（pinia）存储用户及商家信息、并封装功能函数<br>
-2.用router对不同view进行关联<br>
+2.用itemStore（pinia）存储平台菜品信息<br>
+3.用router对不同view进行关联<br>
 
 问题：<br>
 1.商家无法注册<br>
